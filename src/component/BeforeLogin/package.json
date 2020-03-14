@@ -1,0 +1,7 @@
+{
+    "name": "BeforeLogin",
+    "private": true,
+    "main": "./BeforeLogin",
+    "version": "1.0.0"
+
+}
